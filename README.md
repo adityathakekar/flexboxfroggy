@@ -1,5 +1,11 @@
 Flexbox Froggy
 =======
+## Using the flexbox froggy game and running it in ESP32
+
+<details>
+  <summary> Read the original script Here </summary>
+  
+
 
 Flexbox Froggy is a game for learning CSS flexbox. Check it out at [flexboxfroggy.com](https://flexboxfroggy.com).
 
@@ -65,3 +71,6 @@ Don't see your language on the list? Contribute a translation! Fork the [repo](h
 ## Copyright and License
 
 Copyright 2015-2021 Thomas Park. Code released under [the MIT License](https://github.com/thomaspark/flexboxfroggy/blob/gh-pages/LICENSE). Images released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/legalcode.txt).
+
+  
+  </details>
