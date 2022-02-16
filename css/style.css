@@ -32,8 +32,8 @@ body {
   display: flex;
   min-width: 600px;
   margin: 0;
-  background-color: #43A047;
-  color: rgba(255, 255, 255, 0.8);
+  background-color: #3b82f580;
+  color: rgba(59, 130, 245, 0.5); 
   font-family: 'PT Sans', sans-serif;
 }
 
