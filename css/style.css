@@ -485,7 +485,7 @@ button:not(.disabled):hover {
 #background {
   z-index: 10;
   border-radius: 0 0 0 10px;
-  background-color: #080C17;
+  background-color: #1F5768;
 }
 
 #pond {
