@@ -32,7 +32,7 @@ body {
   display: flex;
   min-width: 600px;
   margin: 0;
-  background-color: #080C17;
+  background-color: #f5f5f5;
   color: rgb(0, 0, 0); 
   font-family: 'PT Sans', sans-serif;
 }
