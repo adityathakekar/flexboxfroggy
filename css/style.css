@@ -33,7 +33,7 @@ body {
   min-width: 600px;
   margin: 0;
   background-color: #000000;
-  color: rgb(0, 0, 0); 
+  color: rgb(255, 255, 255); 
   font-family: 'PT Sans', sans-serif;
 }
 
@@ -42,7 +42,7 @@ body {
   min-width: 300px;
   position: relative;
   padding: 2em;
-  background-color: #ffffff;
+  background-color: #000000;
   font-size: 15px;
 }
 
@@ -485,7 +485,7 @@ button:not(.disabled):hover {
 #background {
   z-index: 10;
   border-radius: 0 0 0 10px;
-  background-color: #1F5768;
+  background-color: #080C17;
 }
 
 #pond {
